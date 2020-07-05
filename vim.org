@@ -1,0 +1,28 @@
+#+TITLE: Vim
+
+* Basics
+    - h,j,k,l
+    - C-D, C-u - move down and up a page
+    - ZZ - Save and quit
+    - ZQ - Quit
+    - zz - highlight in middle
+    - zt - top
+    - zb - bottom
+    - xset r rate 300 50
+    - {,} - move bw paras
+    - A - insert mode at end of line
+    - I - beginning
+    - x - delete char
+    - :wq! / :x! - save and exit
+    - i - insert before cursor
+    - a - insert after cursor
+    - dw (daw) - delete word
+    - d$ / D - delete to end of line
+    - ^(0), $ - go to beg, end of line
+    - w, b - move front, back a word
+    - dd - delete line
+    - u - undo
+    - C-r - redo
+    - di( / da( - delete inside, incl parantheses
+    - :earlier/later 5m - undo/redo 5 mins worth of commands
+    - p : paste last deleted text

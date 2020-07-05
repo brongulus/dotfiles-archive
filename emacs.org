@@ -1,0 +1,49 @@
+#+TITLE: Emacs
+
+* References
+
+The Greek philosopher Proclus records that when Ptolemy asked
+if there wasn't perhaps an easier way to learn Emacs than Emacs,
+Euclid replied, "Sire, there is no royal road to Emacs."
+
+- [[http://www.gnu.org/software/emacs/tour/index.html][Guided tour of Emacs]]
+- [[https://tuhdo.github.io/emacs-tutor.html][Emacs Tutor]]
+- [[https://orgmode.org/worg/org-tutorials/org4beginners.html][Org Mode Beginning at the basics]]
+- [[https://org-babel.readthedocs.io/en/latest/][OrgBabel]]
+- [[https://org-roam.readthedocs.io/en/master/tour/][Org-roam]]
+- [[http://doc.norang.ca/org-mode.html][Org Mode - Organize your life in plain text (Advanced?)]]
+- [[http://ehneilsen.net/notebook/orgExamples/org-examples.html][Org-mode Examples and Cookbook]]
+- [[https://github.com/fniessen/refcard-org-mode][Org-mode Reference Card]]
+- [[https://lwn.net/Articles/727550/][A(gentle) introduction to magit?]]
+- [[https://www.reddit.com/r/emacs/comments/1m73gs/how_do_you_manage_multiple_workspaces/][Managing Multiple Workspaces in emacs - Reddit]]
+- [[https://www.reddit.com/r/emacs/comments/h7ny99/org_mode_agenda_desktop_widget/][Org Mode Agenda Desktop Widget - Reddit]]
+- [[https://lorefnon.tech/2018/07/14/getting-productive-with-selection-and-navigation-in-emacs/][Getting Productive with selection and navigation in emacs]]
+- [[https://tuhdo.github.io/][Emacs Mini Manual]]
+- [[https://tecosaur.github.io/emacs-config/config.html][Ideal Literate Doom Emacs Config (imo obviously)]]
+- [[https://www.gnu.org/software/auctex/manual/auctex.pdf][AUCTeX Manual]]
+- [[https://staff.fnwi.uva.nl/c.dominik/Tools/cdlatex/][CDLaTeX Manual(of sorts)]]
+
+* Cheatsheets
+
+- [[https://wch.github.io/latexsheet/latexsheet.pdf][LaTeX]]
+- [[https://ftp.gnu.org/pub/gnu/auctex/12.2-extra/tex-ref.pdf][AUCTeX]]
+
+* Blogs
+
+- [[http://pragmaticemacs.com/all-posts/][Pragmatic Emacs]]
+- [[https://nullprogram.com/index/][Null Program (By the creator of elfeed)]]
+
+* Packages
+
+- [[https://github.com/io12/org-fragtog][Org-fragtog: Toggle latex fragment previews]]
+- [[https://github.com/AndreaCrotti/yasnippet-snippets][Yasnippet - Snippet Collection]]
+- [[https://github.com/fniessen/org-html-themes][Org-html-themes]]
+
+* Miscellaneous
+
+- [[https://github.com/in28minutes/java-cheat-sheet][Java Crash Course]]
+- [[http://users.tmok.com/~tumble/qadgtj.html][Quick and dirty guide to Japanese]]
+- [[www.typingclub.com][Typing Club - For touch typing]]
+- [[https://castel.dev/post/lecture-notes-1/][Vim and latex for taking notes]]
+
+- [[http://dahlan.unimal.ac.id/files/ebooks/2013%20Algorithms_Unlocked.pdf][Algorithms unlocked]]
