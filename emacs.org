@@ -22,6 +22,7 @@ Euclid replied, "Sire, there is no royal road to Emacs."
 - [[https://tecosaur.github.io/emacs-config/config.html][Ideal Literate Doom Emacs Config (imo obviously)]]
 - [[https://www.gnu.org/software/auctex/manual/auctex.pdf][AUCTeX Manual]]
 - [[https://staff.fnwi.uva.nl/c.dominik/Tools/cdlatex/][CDLaTeX Manual(of sorts)]]
+- [[https://lepisma.xyz/2016/11/02/org-babel/index.html][Polyglot Notebooks - Org babel]]
 
 * Cheatsheets
 
