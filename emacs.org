@@ -47,5 +47,8 @@ Euclid replied, "Sire, there is no royal road to Emacs."
 - [[http://users.tmok.com/~tumble/qadgtj.html][Quick and dirty guide to Japanese]]
 - [[www.typingclub.com][Typing Club - For touch typing]]
 - [[https://castel.dev/post/lecture-notes-1/][Vim and latex for taking notes]]
-
 - [[http://dahlan.unimal.ac.id/files/ebooks/2013%20Algorithms_Unlocked.pdf][Algorithms unlocked]]
+
+* Elfeed
+
+- [[https://www.hamvocke.com/blog/][Ham Vocke]]
