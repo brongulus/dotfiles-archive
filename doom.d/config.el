@@ -6,8 +6,8 @@
 
 ;; Some functionality uses this to identify you, e.g. GPG configuration, email
 ;; clients, file templates and snippets.
-(setq user-full-name "John Doe"
-      user-mail-address "john@doe.com")
+(setq user-full-name "Prashant Tak"
+      user-mail-address "prashantrameshtak@gmail.com")
 
 ;; Doom exposes five (optional) variables for controlling fonts in Doom. Here
 ;; are the three important ones:
@@ -19,12 +19,11 @@
 ;;
 ;; They all accept either a font-spec, font string ("Input Mono-12"), or xlfd
 ;; font string. You generally only need these two:
-(setq doom-font (font-spec :family "monospace" :size 14))
-
+(setq doom-font (font-spec :family "JetBrains Mono" :size 20))
 ;; There are two ways to load a theme. Both assume the theme is installed and
 ;; available. You can either set `doom-theme' or manually load a theme with the
 ;; `load-theme' function. This is the default:
-(setq doom-theme 'doom-nord)
+(setq doom-theme 'doom-nova)
 
 ;; If you use `org' and don't want your org files in the default location below,
 ;; change `org-directory'. It must be set before org loads!
@@ -44,19 +43,51 @@
                (battery))
   (display-battery-mode 1))                       ; Battery
 
+(if (eq window-system 'ns)
+    (toggle-frame-maximized)
+  (toggle-frame-fullscreen))
+
+;;###########ZEN MODE###############
+;;
+;;(load! "~/.emacs.d/zen")
+(require 'olivetti)
+
+;;############ORG MODE#################
+;;
+(setq org-latex-toc-command "\\tableofcontents \\clearpage")
+
+;;############EMMS####################
+;;
+ (use-package emms
+  :config
+  (require 'emms-setup)
+  (emms-all)
+  (emms-default-players)
+  (setq emms-source-file-default-directory "D:/Music/")
+  (setq emms-playlist-buffer-name "*Music*")
+  (setq emms-info-asynchronously t)
+  (require 'emms-info-libtag) ;;; load functions that will talk to emms-print-metadata which in turn talks to libtag and gets metadata
+  (setq emms-info-functions '(emms-info-libtag)) ;;; make sure libtag is the only thing delivering metadata
+  (require 'emms-mode-line)
+  (emms-mode-line 1)
+  (require 'emms-playing-time)
+  (emms-playing-time 1))
+
+
+
 ;;############CENTAUR TABS############
 ;;
 
 ;;
-(require 'centaur-tabs)
-  (centaur-tabs-mode 1)
-  (setq centaur-tabs-style "wave"
-        centaur-tabs-height 36
-        centaur-tabs-set-icons t
-        centaur-tabs-modified-marker "o"
-        centaur-tabs-close-button "×"
-        centaur-tabs-set-bar 'above
-        centaur-tabs-gray-out-icons 'buffer)
+;;(require 'centaur-tabs)
+;;  (centaur-tabs-mode 1)
+;;  (setq centaur-tabs-style "wave"
+;;        centaur-tabs-height 36
+;;        centaur-tabs-set-icons t
+;;        centaur-tabs-modified-marker "o"
+;;        centaur-tabs-close-button "×"
+;;        centaur-tabs-set-bar 'above
+;;        centaur-tabs-gray-out-icons 'buffer)
 
 
 ;;################MEGHANADA-EMACS##################
@@ -93,10 +124,10 @@
 ;;################PDFVIEW######################
 ;;
 ;; midnite mode hook
- (add-hook 'pdf-view-mode-hook (lambda ()
-                                 (pdf-view-midnight-minor-mode))) ; automatically turns on midnight-mode for pdfs
+(add-hook 'pdf-view-mode-hook (lambda ()
+        (pdf-view-midnight-minor-mode))) ; automatically turns on midnight-mode for pdfs
 
-(setq pdf-view-midnight-colors '("#839496" . "#002b36" )) ; set the amber profile as default (see below)
+(setq pdf-view-midnight-colors '("#839496" . "#002b36" )) ;
 
 (defun bms/pdf-no-filter ()
   "View pdf without colour filter."
@@ -112,26 +143,10 @@
   (pdf-view-midnight-minor-mode)
   )
 
-(defun bms/pdf-midnite-amber ()
-  "Set pdf-view-midnight-colors to amber on dark slate blue."
-  (interactive)
-  (setq pdf-view-midnight-colors '("#ff9900" . "#0a0a12" )) ; amber
-  (pdf-view-midnight-minor-mode)
-  )
-
-(defun bms/pdf-midnite-green ()
-  "Set pdf-view-midnight-colors to green on black."
-  (interactive)
-  (setq pdf-view-midnight-colors '("#00B800" . "#000000" )) ; green
-  (pdf-view-midnight-minor-mode)
-  )
-
 (defun bms/pdf-midnite-colour-schemes ()
   "Midnight mode colour schemes bound to keys"
         (local-set-key (kbd "!") (quote bms/pdf-no-filter))
-        (local-set-key (kbd "@") (quote bms/pdf-midnite-amber))
-        (local-set-key (kbd "#") (quote bms/pdf-midnite-green))
-            (local-set-key (kbd "$") (quote bms/pdf-midnite-original))
+        (local-set-key (kbd "$") (quote bms/pdf-midnite-original))
  )
 
 (add-hook 'pdf-view-mode-hook 'bms/pdf-midnite-colour-schemes)
@@ -144,6 +159,7 @@
 ;;
 ;;(load! "~/.emacs.d/elegant-emacs/sanity")
 ;;(load! "~/.emacs.d/elegant-emacs/elegance")
+
 
 ;; Disable the menu bar on startup
 (menu-bar-mode -1)
