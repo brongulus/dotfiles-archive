@@ -15,7 +15,6 @@ Euclid replied, "Sire, there is no royal road to Emacs."
 - [[http://ehneilsen.net/notebook/orgExamples/org-examples.html][Org-mode Examples and Cookbook]]
 - [[https://github.com/fniessen/refcard-org-mode][Org-mode Reference Card]]
 - [[https://lwn.net/Articles/727550/][A(gentle) introduction to magit?]]
-- [[https://www.reddit.com/r/emacs/comments/1m73gs/how_do_you_manage_multiple_workspaces/][Managing Multiple Workspaces in emacs - Reddit]]
 - [[https://www.reddit.com/r/emacs/comments/h7ny99/org_mode_agenda_desktop_widget/][Org Mode Agenda Desktop Widget - Reddit]]
 - [[https://lorefnon.tech/2018/07/14/getting-productive-with-selection-and-navigation-in-emacs/][Getting Productive with selection and navigation in emacs]]
 - [[https://tuhdo.github.io/][Emacs Mini Manual]]
