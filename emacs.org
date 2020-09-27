@@ -34,6 +34,8 @@ Euclid replied, "Sire, there is no royal road to Emacs."
 - [[https://nullprogram.com/index/][Null Program (By the creator of elfeed)]]
 - [[https://lepisma.xyz/journal/][Lepisma]]
 - [[https://lars.ingebrigtsen.no/][Random Thoughts]]
+- [[https://reasonablypolymorphic.com/][Reasonably Polymorphic]]
+- [[https://mango.pdf.zone/][Work by a hacker]]
 
 * Packages
 
