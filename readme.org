@@ -1,0 +1,7 @@
+* Readme
+** Plan of Action
+  1. Consistency across all the different packages
+  2. Clean the files
+  3. Improve the configs
+** Next steps
+  1. Improve doom config (Learn elisp usage)
