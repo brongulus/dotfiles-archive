@@ -3,6 +3,10 @@
 1. Anime: [[https://anidb.net/][AniDB]]
 2. Manga: [[https://www.mangaupdates.com/][Baka-Updates]]
 3. AniList to MAL export: [[https://anilist.co/forum/thread/2654][Douki Script - Tampermonkey]]
+4. [[https://seanprashad.com/leetcode-patterns/][Leetcode Patterns]]
+5. [[https://kenkoooo.com/atcoder#/table//][AtCoder Table]]
+6. [[https://rentry.co/japanese_resources][Japanese Resources]]
+7. [[https://depts.washington.edu/uwhatc/PDF/TF-%20CBT/pages/therapist_resources.html#][CBT]]
 
 * Shogi
 
@@ -14,6 +18,25 @@
 1. [[https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/][Must do interview Qs - G4G]]
 2. [[http://web.stanford.edu/class/cs97si/][CS 97SI: Prog Contests Stanford]]
 3. [[https://defkey.com/far-manager-shortcuts][Far Manager Shortcuts]]
+4. [[https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true][Google DSA Tidbits]]
+5. [[https://hackmd.io/@cs-mshah/B1h1zUDWt][CP - Getting Started HackMD]]
+6. [[https://careers.google.com/students/][Careers - Google]]
+7. [[https://visualgo.net/en][Visalgo]]
+8. [[https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/][G4G Top DSA]]
+9. [[https://petr-mitrichev.blogspot.com/2014/05/coming-up-with-tough-dynamic.html][Algorithms Weekly DP]]
+10. [[https://btholt.github.io/complete-intro-to-computer-science/][BT Holt - Intro to CS]]
+11. [[https://btholt.github.io/intro-to-web-dev-v2/][BT Holt - Intro to Web Dev]]
+
+* Grains
+
+1. [[https://www.vi-improved.org/][Vi-Improved]]
+2. [[https://github.com/pazz/alot/wiki/pazz's-mail-setup][Mail Setup]]
+
+* Codeforces
+
+1. [[https://codeforces.com/blog/entry/74684][C++ Tricks]]
+2. [[https://codeforces.com/blog/entry/92130][Swap Adjacent Elements]]
+3. [[https://codeforces.com/blog/entry/84017?#comment-717698][Treaps]]
 
 * Random Programming Stuff
 
@@ -28,5 +51,9 @@
 1. [[https://lena-voita.github.io/nlp_course.html][NLP Course]]
 2. [[https://cs231n.github.io/][CNN for Visual Recognition]]
 3. [[https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21][Illustrated LSTM GRU]]
+4. [[https://github.com/dynamicwebpaige/kaggle-survey-spelunking/blob/main/README.md][Kaggle Survey Spelunking]]
 
+* Japanese
 
+1. [[https://bilingualmanga.com/][Billingual Manga]]
+2. [[https://www.tofugu.com/japanese-grammar/][Tofugu Grammar]]
