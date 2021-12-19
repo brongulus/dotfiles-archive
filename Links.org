@@ -8,6 +8,10 @@
 6. [[https://rentry.co/japanese_resources][Japanese Resources]]
 7. [[https://depts.washington.edu/uwhatc/PDF/TF-%20CBT/pages/therapist_resources.html#][CBT]]
 
+* Readings
+
+1. Guix: [[https://guix.gnu.org/manual/en/html_node/Substitutes.html][Substitutes]]
+
 * Shogi
 
 1. [[http://users.cms.caltech.edu/~mvanier/hacking/gnushogi/gnushogi_5.html#SEC5][GNU Shogi Manual]]
