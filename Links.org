@@ -1,6 +1,6 @@
 * Lists
 
-1. Anime: [[https://anidb.net/][AniDB]]
+1. Anime (bronguus): [[https://anidb.net/][AniDB]]
 2. Manga: [[https://www.mangaupdates.com/][Baka-Updates]]
 3. AniList to MAL export: [[https://anilist.co/forum/thread/2654][Douki Script - Tampermonkey]]
 4. [[https://seanprashad.com/leetcode-patterns/][Leetcode Patterns]]
