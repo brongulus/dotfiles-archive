@@ -1,0 +1,31 @@
+* Lists
+
+1. Anime: [[https://anidb.net/][AniDB]]
+2. Manga: [[https://www.mangaupdates.com/][Baka-Updates]]
+
+* Shogi
+
+1. [[http://users.cms.caltech.edu/~mvanier/hacking/gnushogi/gnushogi_5.html#SEC5][GNU Shogi Manual]]
+2. [[http://www.shogi.net/rjhare/][Shogi - Japanese Chess]]
+
+* Coding
+
+1. [[https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/][Must do interview Qs - G4G]]
+2. [[http://web.stanford.edu/class/cs97si/][CS 97SI: Prog Contests Stanford]]
+3. [[https://defkey.com/far-manager-shortcuts][Far Manager Shortcuts]]
+
+* Random Programming Stuff
+
+1. [[https://devhints.io/][TL; DR for dev doc]]
+2. [[https://www.personal.kent.edu/~rmuhamma/OpSystems/os.html][OS - Rashid Bin Muhammad]]
+3. [[https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/][Latex - Mathematical Python]]
+4. [[https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/][Rust First Steps - Microsoft]]
+5. [[https://www.cis.upenn.edu/~cis194/spring13/lectures.html][Haskell CIS 194]]
+
+* ML/AI Bro
+
+1. [[https://lena-voita.github.io/nlp_course.html][NLP Course]]
+2. [[https://cs231n.github.io/][CNN for Visual Recognition]]
+3. [[https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21][Illustrated LSTM GRU]]
+
+
