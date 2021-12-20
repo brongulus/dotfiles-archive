@@ -51,6 +51,7 @@
 3. [[https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/][Latex - Mathematical Python]]
 4. [[https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/][Rust First Steps - Microsoft]]
 5. [[https://www.cis.upenn.edu/~cis194/spring13/lectures.html][Haskell CIS 194]]
+6. [[https://github.com/jeaye/stdman][Stdman]] - Reading cppref offline
 
 * ML/AI Bro
 
