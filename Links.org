@@ -12,6 +12,7 @@
 * Readings
 
 1. Guix: [[https://guix.gnu.org/manual/en/html_node/Substitutes.html][Substitutes]]
+2. Y Combinator: [[http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2016/p0200r0.html][(Better)Lamba Functions in C++]]
 
 * Shogi
 
