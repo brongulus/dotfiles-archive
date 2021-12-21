@@ -8,6 +8,7 @@
 6. [[https://rentry.co/japanese_resources][Japanese Resources]]
 7. [[https://depts.washington.edu/uwhatc/PDF/TF-%20CBT/pages/therapist_resources.html#][CBT]]
 8. [[https://devdocs.io/cpp][C++ Documentation]]
+9. [[https://clist.by/][CLIST]]
 
 * Readings
 
