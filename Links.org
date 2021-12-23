@@ -4,7 +4,7 @@
 2. Manga: [[https://www.mangaupdates.com/][Baka-Updates]]
 3. AniList to MAL export: [[https://anilist.co/forum/thread/2654][Douki Script - Tampermonkey]]
 4. [[https://seanprashad.com/leetcode-patterns/][Leetcode Patterns]]
-5. [[https://kenkoooo.com/atcoder#/table//][AtCoder Table]]
+5. [[https://kenkoooo.com/atcoder#/table/brongulus][AtCoder Table]]
 6. [[https://rentry.co/japanese_resources][Japanese Resources]]
 7. [[https://depts.washington.edu/uwhatc/PDF/TF-%20CBT/pages/therapist_resources.html#][CBT]]
 8. [[https://devdocs.io/cpp][C++ Documentation]]
