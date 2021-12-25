@@ -45,6 +45,7 @@
 1. [[https://codeforces.com/blog/entry/74684][C++ Tricks]]
 2. [[https://codeforces.com/blog/entry/92130][Swap Adjacent Elements]]
 3. [[https://codeforces.com/blog/entry/84017?#comment-717698][Treaps]]
+4. [[https://github.com/LumaKernel/cf-fast-submit][CF-Fast Submit]]
 
 * Random Programming Stuff
 
