@@ -10,6 +10,8 @@
 8. [[https://devdocs.io/cpp][C++ Documentation]]
 9. [[https://clist.by/][CLIST]]
 10. [[https://informatics.msk.ru/][...]]
+11. [[https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/][DP]]
+
 
 * Readings
 
