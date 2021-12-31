@@ -11,6 +11,7 @@
 9. [[https://clist.by/][CLIST]]
 10. [[https://informatics.msk.ru/][...]]
 11. [[https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/][DP]]
+12. [[https://codeforces.com/catalog][Codeforces Catalog]]
 
 
 * Readings
