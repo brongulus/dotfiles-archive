@@ -13,6 +13,10 @@
 11. [[https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/][DP]]
 12. [[https://codeforces.com/catalog][Codeforces Catalog]]
 
+* OJ Trainers
+1. [[https://train.usaco.org/][USACO Training]]
+2. [[https://acmp.ru/]]
+3. [[https://acm.timus.ru/problemset.aspx][Timus Problemset]]
 
 * Readings
 
