@@ -12,6 +12,7 @@
 10. [[https://informatics.msk.ru/][...]]
 11. [[https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/][DP]]
 12. [[https://codeforces.com/catalog][Codeforces Catalog]]
+13. [[https://git.dec05eba.com/][Great Stuff (Quickmedia dude)]]
 
 * OJ Trainers
 1. [[https://train.usaco.org/][USACO Training]]
