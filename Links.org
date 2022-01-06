@@ -75,3 +75,7 @@
 
 1. [[https://bilingualmanga.com/][Billingual Manga]]
 2. [[https://www.tofugu.com/japanese-grammar/][Tofugu Grammar]]
+
+* Misc
+
+1. [[https://diskprices.com/?locale=in][Disk Prices]]
